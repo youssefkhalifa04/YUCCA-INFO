@@ -1,5 +1,8 @@
 
-# YUCCA-INFO 🌿 (Création du nouveau site web de YUCCAINFO)
+# YUCCA-INFO 🌿 (Création du nouveau site web de YUCCAINFO) 
+The Bransh contains a descriptive video of the project please see it :) 
+Keep in mind : 
+  if you want to run the project you have to follow the next steps 
 
 **YUCCA-INFO** is a web application that allows users to submit project proposals with detailed information like project name, description, resources, category, budget, and deadline. The application utilizes **React** with **Vite** for frontend development and **Flask** for the backend. **NextUI** is used for stylish and responsive UI components, and **React-Toastify** is integrated for notifications.
 
