@@ -21,7 +21,7 @@
 
 - **Backend**:
   - Flask (Python web framework) 🐍
-  - SQLite (or another database, depending on your setup) 🗄️
+  
 
 ## Installation ⚙️
 
@@ -116,14 +116,6 @@ YUCCA-INFO/
    - **Deadline**: Select the project deadline.
 
 2. Click the **Envoyer le projet** button to submit your project. After submission, you will see a toast notification indicating whether the submission was successful or failed.
-
-## Contributing 🤝
-
-1. Fork the repository 🍴
-2. Create a new branch (`git checkout -b feature-name`) 🌱
-3. Commit your changes (`git commit -am 'Add new feature'`) 💬
-4. Push to the branch (`git push origin feature-name`) 📤
-5. Create a new Pull Request 🚀
 
 ## License 📜
 
