@@ -79,7 +79,7 @@ def handle_project_form():
         # Extraire les informations du formulaire
         project_name = data.get('projectName')
         description = data.get('description')
-        
+        resources = data.get('resources')
         category = data.get('category')
         budget = data.get('budget')
         deadline = data.get('deadline')
@@ -89,7 +89,7 @@ def handle_project_form():
         email_body = f"""
         Nom du projet: {project_name}
         Description: {description}
-        
+        Ressources: {resources}
         Catégorie: {category}
         Budget estimé: {budget} DT
         Date limite: {deadline}
